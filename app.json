@@ -1,0 +1,12 @@
+{
+  "name": "HelloWorldReactNat",
+  "displayName": "HelloWorldReactNatReactNat",
+  "expo": {
+    "name": "HelloWorldReactNat",
+    "slug": "HelloWorldReactNat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
